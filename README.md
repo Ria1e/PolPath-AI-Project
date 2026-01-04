@@ -1,4 +1,6 @@
 # PolPath AI - IBM AI Fundamentals Capstone Project
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/2267f8ce-516f-4831-aa67-21e47094abcc" />
+
 
 PolPath AI is a specialized conversational assistant designed to help international students navigate the Polish higher education system. This project was developed as the final capstone for the **IBM AI Fundamentals** certification.
 
